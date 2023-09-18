@@ -1,4 +1,4 @@
-/*
+:/*
     alias: Handle/Body
     参与者:
             Abstraction 定义抽象类的接口
